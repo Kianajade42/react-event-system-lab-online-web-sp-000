@@ -7,7 +7,7 @@ class Keypad extends React.Component{
     <div>
     <input
     type="password"
-    onKeyUp()={this.handleInputPassword}
+    onKeyUp={this.handleInputPassword}
     />
     </div>
   )
