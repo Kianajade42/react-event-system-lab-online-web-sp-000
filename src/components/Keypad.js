@@ -7,6 +7,7 @@ class Keypad extends React.Component{
     <div>
     <input
     onKeyUP()={this.keyUp}
+    </div>
   }
 }
 }
