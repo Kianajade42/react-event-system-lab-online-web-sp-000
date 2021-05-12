@@ -13,4 +13,4 @@ class Keypad extends React.Component{
   }
 }
 }
-export default EyesOnMe;
+export default Keypad;
